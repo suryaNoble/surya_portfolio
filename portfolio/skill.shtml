@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills - My Portfolio</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+        <h3>Technical Skills</h3>
+        <ul>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>HTML & CSS</li>
+            <li>Git & GitHub</li>
+            <!-- Add more skills -->
+        </ul>
+
+        <h3>Soft Skills</h3>
+        <ul>
+            <li>Problem Solving</li>
+            <li>Communication</li>
+            <li>Teamwork</li>
+            <!-- Add more skills -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Surya Manikanta. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
